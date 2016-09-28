@@ -1,6 +1,5 @@
 
 window.onload = function(){
-	//两个函数顺序颠倒，就会图片切换失败
 	    prepareGalllery();
 		showPic();
 		

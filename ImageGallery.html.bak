@@ -14,7 +14,7 @@
   <h1>Snapshots</h1>
   <ul id="imagegallery">
 	<li>
-		<a href="images/girl1.jpg" title="girl1" >girl1</a>
+		<a href="images/girl1.jpg" title="girl1" onclick="showPic(this);return false;">girl1</a>
 	</li>
 	<li>
 		<a href="images/girl2.jpg" title="girl2" > girl2</a>
