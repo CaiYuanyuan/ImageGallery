@@ -1,0 +1,35 @@
+
+body,h1,ul,li,a {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: "Î¢ÈíÑÅºÚ","Helvetica";
+    color:#333;
+	background-color:#ccc;
+	margin:1em 10%;
+}
+
+h1 {
+	background-color:transparent;
+	
+}
+a {
+	text-decoration:none;
+	font-weight:bold;
+	color:#c60;
+	
+  
+}
+#imagegallery li {
+	/*float:left;*/
+	display:inline;
+	padding:1em;
+	list-style:none;
+}
+ul{
+	padding:10px;
+}
+.class_left {
+	/*clear:left;*/
+}
